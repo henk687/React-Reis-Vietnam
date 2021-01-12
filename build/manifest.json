@@ -1,0 +1,25 @@
+{
+  "short_name": "Vietnam 2017",
+  "name": "Rondreis door Vietnam in 2017",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "vietnamvlagklein.png",
+      "type": "image/png",
+      "sizes": "192x128"
+    },
+    {
+      "src": "vietnamvlag.png",
+      "type": "image/png",
+      "sizes": "640x427"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
