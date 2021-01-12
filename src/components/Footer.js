@@ -110,7 +110,7 @@ const Footer = () => {
             <Container>
                 <FooterTop>
                     <Quote>
-                        <h3>Vietnam <br /> Rondreis 2017ewrewr</h3>
+                        <h3>Vietnam <br /> Rondreis 2017</h3>
                     </Quote>
                     <FooterInfo>
                         <h4>Pagina's</h4>
