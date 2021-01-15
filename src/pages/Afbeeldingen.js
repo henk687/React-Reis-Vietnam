@@ -1,6 +1,6 @@
 import React from 'react'
 import Features from '../components/Features'
-import { FeaturesDataTwo } from '../data/FeaturesData'
+import { FeaturesDataThree } from '../data/FeaturesData'
 
 
 const Afbeeldingen = () => {
