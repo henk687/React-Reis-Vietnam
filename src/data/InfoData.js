@@ -16,8 +16,8 @@ export const InfoData = {
 
     export const InfoDataTwo = { 
         heading: 'Onze Rondreis', 
-        paragraphOne: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi unde id numquam eos laboriosam dicta ', 
-        paragraphTwo: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. fugit rem quo repellat aut?',
+        paragraphOne: 'Wij hebben een privéreis van 16 dagen gemaakt door Noord- en Midden Vietnam. Gestart in Hanoi en via de bergen in Sapa naar Halong Bay voor een boottocht. Vervolgens via Hue naar Hoi An en de terugvlucht vanaf Danang. De hele reis was bijzonder geslaagd, veel kunnen zien en gedaan. Een mooie afwisseling van rust en activiteit. Alles was goed geregeld.', 
+        paragraphTwo: 'Onze bestemmingen waren: Hanoi, Sapa, Halong Bay, Ninh Binh, Mai Chau, Hué en Hoi An',
         buttonLabel: 'Lees Meer',
         buttonLink: '/bestemmingen',
         image: ImageTwo, 
@@ -73,7 +73,7 @@ export const InfoData = {
     };
 
     export const InfoDataSix = { 
-        heading: 'Ninh Binh ', 
+        heading: 'Ninh Binh', 
         paragraphOne: 'Ninh Bình is een provincie van Vietnam. Ninh Bình telt 928.500 inwoners op een oppervlakte van 1392 km².', 
         paragraphTwo: 'Ninh Binh wordt ook wel het ‘Halong Bay van het vaste land’ genoemd. Het staat bekend om de kalksteen rotsen, de felgroene rijstvelden, rivieren, prachtige uitzichten en verschillende oude tempels.',
         buttonLabel: 'Bekijk Afbeeldingen',

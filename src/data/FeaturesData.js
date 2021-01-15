@@ -8,11 +8,11 @@ import ImageSeven from '../images/maichau/maichau.JPG'
 import ImageEight from '../images/maichau/maichau.JPG'
 
 export const FeaturesData = { 
-        heading: 'Bestemmingen', 
-        paragraphOne: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi unde id numquam eos laboriosam dicta quod architecto, eum magnam aspernatur?', 
-        paragraphTwo: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur laboriosam fugit rem quo repellat aut?',
-        buttonLabel: 'Lees Meer',
-        buttonLink: '/bestemmingen',
+        heading: 'Reismoment', 
+        paragraphOne: 'Deel met ons je mooiste reis of je favoriete vakantie moment.', 
+        paragraphTwo: 'Vul het formulier in en deel met ons de mooiste en leukste reizen die je gemaakt hebt',
+        buttonLabel: 'Deel Ervaringen',
+        buttonLink: '/contact',
         image: ImageOne, 
         reverse: false,
         delay: 100
