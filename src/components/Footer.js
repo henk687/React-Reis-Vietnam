@@ -1,6 +1,6 @@
 import React from 'react'
 import { IoMdArrowRoundForward } from 'react-icons/io'
-import { FaInstagram, FaFacebookF, FaLinkedinIn, FaYoutube } from 'react-icons/fa'
+import { FaInstagram } from 'react-icons/fa'
 import styled, { css } from 'styled-components/macro'
 import { Button } from './Button'
 import { Link } from 'react-router-dom'
