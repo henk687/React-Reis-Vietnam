@@ -82,7 +82,7 @@ const Icons = css`
 const Instagram = styled(FaInstagram)`
     ${Icons}
 `
-const Facebook = styled(FaFacebookF)`
+/*const Facebook = styled(FaFacebookF)`
     ${Icons}
 `
 const LinkedIn = styled(FaLinkedinIn)`
@@ -90,7 +90,7 @@ const LinkedIn = styled(FaLinkedinIn)`
 `
 const Youtube = styled(FaYoutube)`
     ${Icons}
-`
+`*/
 
 const Contact = styled.div`
     width: 50%;
@@ -122,10 +122,7 @@ const Footer = () => {
                 </FooterTop>
                 <FooterBottom>
                     <SocialIcons>
-                        <a href="//www.google.com" rel="noopener noreferrer" target="_blank"><Youtube /></a>
                         <a href="//www.google.com" rel="noopener noreferrer" target="_blank"><Instagram /></a>
-                        <a href="//www.google.com" rel="noopener noreferrer" target="_blank"><Facebook /></a>
-                        <a href="//www.google.com" rel="noopener noreferrer" target="_blank"><LinkedIn /></a>
                     </SocialIcons>
                     <Contact>
                         <Button to="/contact">Deel Ervaringen <IoMdArrowRoundForward /></Button>
