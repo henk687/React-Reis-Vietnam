@@ -81,7 +81,7 @@ const Features = ({ heading, paragraphOne, paragraphTwo, buttonLabel, buttonLink
             <Container>
                 <Wrap>
                     <ColumnLeft>
-                        <Content>
+                        <Content data-aos='fade-right' data-aos-duration='1200' data-aos-once='true' data-aos-delay='300' data-aos-anchor-placements='center bottom'>
                             <h1>{heading}</h1>
                             <p>{paragraphOne}</p>
                             <p>{paragraphTwo}</p>
@@ -89,7 +89,7 @@ const Features = ({ heading, paragraphOne, paragraphTwo, buttonLabel, buttonLink
                         </Content>
                     </ColumnLeft>
                     <ColumnRight>
-                        <Image src={image} />
+                        <Image src={image} data-aos='fade-left' data-aos-duration='1200' data-aos-once='true' data-aos-anchor-placements='center bottom'/>
                     </ColumnRight>
                 </Wrap>
             </Container>

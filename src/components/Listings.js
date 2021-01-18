@@ -84,10 +84,10 @@ const Listings = () => {
         <Section>
             <Container>
                 <Heading>
-                    <h1>Bekijk onze foto's</h1>
+                    <h1 data-aos='fade-right' data-aos-duration='1000' data-aos-once='true' data-aos-anchor-placements='center bottom'>Bekijk onze foto's</h1>
                 </Heading>
                 <InfoRow>
-                    <InfoWrap>
+                    <InfoWrap data-aos='zoom-out-up' data-aos-duration='1200' data-aos-once='true' data-aos-anchor-placements='center bottom'>
                         <Image src={ImageOne} alt='home' />
                         <h2>De Ngoc Son tempel op het Hoan Kiem meer , Hanoi</h2>
                         <InfoLink to='/afbeeldingen'>
@@ -95,7 +95,7 @@ const Listings = () => {
                             <Arrow />
                         </InfoLink>
                     </InfoWrap>
-                    <InfoWrap>
+                    <InfoWrap data-aos='zoom-out-down' data-aos-duration='1200' data-aos-once='true' data-aos-anchor-placements='center bottom'>
                         <Image 
                             src={ImageTwo} 
                             alt='home' 

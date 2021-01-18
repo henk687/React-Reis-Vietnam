@@ -64,18 +64,18 @@ const ColumnRight = styled.section`
     } 
 `
 
-const InfoSection = ({ heading, paragraphOne, paragraphTwo, buttonLabel, buttonLink, primary, reverse, bgcolor, h1color, pcolor, image}) => {
+const InfoSection = ({ heading, paragraphOne, paragraphTwo, buttonLabel, buttonLink, primary, reverse, bgcolor, h1color, pcolor, image, delay}) => {
     return (
         <Section bgcolor={bgcolor}>
             <Container>
-                <ColumnLeft reverse={reverse}>
+                <ColumnLeft reverse={reverse} data-aos='fade-up' data-aos-duration='1000' data-aos-once='true' data-aos-delay={delay} data-aos-anchor-placements='center bottom'>
                     <Header h1color={h1color}>{heading}</Header>
                     <Ptext pcolor={pcolor}>{paragraphOne}</Ptext>
                     <Ptext pcolor={pcolor}>{paragraphTwo}</Ptext>
                     <Button to={buttonLink} primary={primary}>{buttonLabel}</Button>
                 </ColumnLeft>
                 <ColumnRight reverse={reverse}>
-                    <img src={image} alt="home" />
+                    <img src={image} alt="home" data-aos='zoom-out'  data-aos-duration='1000' data-aos-once='true' data-aos-delay={delay} data-aos-anchor-placements='center bottom'/>
                 </ColumnRight>
             </Container>
         </Section>
