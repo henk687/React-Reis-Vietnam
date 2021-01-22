@@ -37,6 +37,28 @@ import ImageThirty from '../images/halongbay/halongbay8.JPG'
 import ImageThirtyone from '../images/halongbay/halongbay9.JPG'
 import ImageThirtytwo from '../images/halongbay/halongbay10.JPG'
 
+import ImageThirtythree from '../images/ninhbinh/ninhbinh.JPG'
+import ImageThirtyfour from '../images/ninhbinh/ninhbinh2.JPG'
+import ImageThirtyfive from '../images/ninhbinh/ninhbinh3.JPG'
+import ImageThirtysix from '../images/ninhbinh/ninhbinh4.JPG'
+import ImageThirtyseven from '../images/ninhbinh/ninhbinh5.JPG'
+import ImageThirtyeight from '../images/ninhbinh/ninhbinh6.JPG'
+import ImageThirtynine from '../images/ninhbinh/ninhbinh7.JPG'
+import ImageForty from '../images/ninhbinh/ninhbinh8.JPG'
+import ImageFortyone from '../images/ninhbinh/ninhbinh9.JPG'
+import ImageFortytwo from '../images/ninhbinh/ninhbinh10.JPG'
+
+import ImageFortythree from '../images/maichau/maichau.JPG'
+import ImageFortyfour from '../images/maichau/maichau2.JPG'
+import ImageFortyfive from '../images/maichau/maichau3.JPG'
+import ImageFortysix from '../images/maichau/maichau4.JPG'
+import ImageFortyseven from '../images/maichau/maichau5.JPG'
+import ImageFortyeight from '../images/maichau/maichau6.JPG'
+import ImageFortynine from '../images/maichau/maichau7.JPG'
+import ImageFifty from '../images/maichau/maichau8.JPG'
+import ImageFiftyone from '../images/maichau/maichau9.JPG'
+import ImageFiftytwo from '../images/maichau/maichau10.JPG'
+
 export const SliderData = [
     { 
         title: 'Hanoi', 
@@ -213,6 +235,92 @@ export const SliderDataHalongbay = [
     },
     { 
         image: ImageThirtytwo, 
+        alt: 'House', 
+    }
+];
+
+export const SliderDataNinhbinh = [
+    {
+        image: ImageThirtythree, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageThirtyfour, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageThirtyfive, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageThirtysix, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageThirtyseven, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageThirtyeight, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageThirtynine, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageForty, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFortyone, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFortytwo, 
+        alt: 'House', 
+    }
+];
+
+export const SliderDataMaichau = [
+    { 
+        image: ImageFortythree, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFortyfour, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFortyfive, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFortysix, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFortyseven, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFortyeight, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFortynine, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFifty, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFiftyone, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFiftytwo, 
         alt: 'House', 
     }
 ];
