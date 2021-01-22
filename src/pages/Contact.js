@@ -1,11 +1,11 @@
 import React from 'react'
-import Features from '../components/Features'
+import ContactForm from '../components/ContactForm'
 
 
 const Contact = () => {
     return (
         <>
-            <Features />
+            <ContactForm />
         </>
     )
 }
