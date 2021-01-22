@@ -1,8 +1,8 @@
 import React from 'react'
 import Features from '../components/Features'
 import Hero from '../components/Hero'
-import { FeaturesDataFive, FeaturesDataFour, FeaturesDataSeven, FeaturesDataSix, FeaturesDataThree, FeaturesDataTwo } from '../data/FeaturesData'
-import { SliderDataSapa, SliderDataHanoi, SliderDataHalongbay, SliderDataNinhbinh, SliderDataMaichau } from '../data/SliderData'
+import { FeaturesDataEight, FeaturesDataFive, FeaturesDataFour, FeaturesDataSeven, FeaturesDataSix, FeaturesDataThree, FeaturesDataTwo } from '../data/FeaturesData'
+import { SliderDataSapa, SliderDataHanoi, SliderDataHalongbay, SliderDataNinhbinh, SliderDataMaichau, SliderDataHue, SliderDataHoian } from '../data/SliderData'
 
 
 const Afbeeldingen = () => {
@@ -18,6 +18,10 @@ const Afbeeldingen = () => {
             <Hero slides={SliderDataNinhbinh}/>
             <Features {...FeaturesDataSix}/>
             <Hero slides={SliderDataMaichau}/>
+            <Features {...FeaturesDataSeven}/>
+            <Hero slides={SliderDataHue}/>
+            <Features {...FeaturesDataEight}/>
+            <Hero slides={SliderDataHoian}/>
         </>
     )
 }
