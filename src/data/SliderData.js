@@ -6,6 +6,14 @@ import ImagehomeFive from '../images/maichau/maichau.JPG'
 import ImagehomeSix from '../images/hue/hue.JPG'
 import ImagehomeSeven from '../images/hoian/hoian.JPG'
 
+import ImageFive from '../images/hanoi/hanoi.JPG'
+import ImageSix from '../images/hanoi/hanoi2.JPG'
+import ImageSeven from '../images/hanoi/hanoi3.JPG'
+import ImageEight from '../images/hanoi/hanoi4.JPG'
+import ImageNine from '../images/hanoi/hanoi5.JPG'
+import ImageTen from '../images/hanoi/hanoi6.JPG'
+import ImageEleven from '../images/hanoi/hanoi7.JPG'
+import ImageTwelve from '../images/hanoi/hanoi8.JPG'
 
 export const SliderData = [
     { 
@@ -63,6 +71,41 @@ export const SliderData = [
         label: 'Afbeeldingen', 
         image: ImagehomeSeven, 
         alt: 'Hoi An', 
+    }
+];
+
+export const SliderDataHanoi = [
+    { 
+        image: ImageFive, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSix, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSeven, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageEight, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageNine, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTen, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageEleven, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTwelve, 
+        alt: 'House', 
     }
 ];
 
