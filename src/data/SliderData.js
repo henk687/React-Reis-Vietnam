@@ -15,6 +15,28 @@ import ImageTen from '../images/hanoi/hanoi6.JPG'
 import ImageEleven from '../images/hanoi/hanoi7.JPG'
 import ImageTwelve from '../images/hanoi/hanoi8.JPG'
 
+import ImageThirteen from '../images/sapa/sapa.JPG'
+import ImageFourteen from '../images/sapa/sapa2.JPG'
+import ImageFifteen from '../images/sapa/sapa3.JPG'
+import ImageSixteen from '../images/sapa/sapa4.JPG'
+import ImageSeventeen from '../images/sapa/sapa5.JPG'
+import ImageEighteen from '../images/sapa/sapa6.JPG'
+import ImageNineteen from '../images/sapa/sapa7.JPG'
+import ImageTwenty from '../images/sapa/sapa8.JPG'
+import ImageTwentyone from '../images/sapa/sapa9.JPG'
+import ImageTwentytwo from '../images/sapa/sapa10.JPG'
+
+import ImageTwentythree from '../images/halongbay/halongbay.JPG'
+import ImageTwentyfour from '../images/halongbay/halongbay2.JPG'
+import ImageTwentyfive from '../images/halongbay/halongbay3.JPG'
+import ImageTwentysix from '../images/halongbay/halongbay4.JPG'
+import ImageTwentyseven from '../images/halongbay/halongbay5.JPG'
+import ImageTwentyeight from '../images/halongbay/halongbay6.JPG'
+import ImageTwentynine from '../images/halongbay/halongbay7.JPG'
+import ImageThirty from '../images/halongbay/halongbay8.JPG'
+import ImageThirtyone from '../images/halongbay/halongbay9.JPG'
+import ImageThirtytwo from '../images/halongbay/halongbay10.JPG'
+
 export const SliderData = [
     { 
         title: 'Hanoi', 
@@ -109,3 +131,88 @@ export const SliderDataHanoi = [
     }
 ];
 
+export const SliderDataSapa = [
+    { 
+        image: ImageThirteen, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFourteen, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFifteen, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSixteen, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSeventeen, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageEighteen, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageNineteen, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTwenty, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTwentyone, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTwentytwo, 
+        alt: 'House', 
+    }
+];
+
+export const SliderDataHalongbay = [
+    { 
+        image: ImageTwentythree, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTwentyfour, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTwentyfive, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTwentysix, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTwentyseven, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTwentyeight, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageTwentynine, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageThirty, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageThirtyone, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageThirtytwo, 
+        alt: 'House', 
+    }
+];
