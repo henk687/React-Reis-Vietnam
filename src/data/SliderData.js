@@ -59,6 +59,28 @@ import ImageFifty from '../images/maichau/maichau8.JPG'
 import ImageFiftyone from '../images/maichau/maichau9.JPG'
 import ImageFiftytwo from '../images/maichau/maichau10.JPG'
 
+import ImageFiftythree from '../images/hue/hue.JPG'
+import ImageFiftyfour from '../images/hue/hue2.JPG'
+import ImageFiftyfive from '../images/hue/hue3.JPG'
+import ImageFiftysix from '../images/hue/hue4.JPG'
+import ImageFiftyseven from '../images/hue/hue5.JPG'
+import ImageFiftyeight from '../images/hue/hue6.JPG'
+import ImageFiftynine from '../images/hue/hue7.JPG'
+import ImageSixty from '../images/hue/hue8.JPG'
+import ImageSixtyone from '../images/hue/hue9.JPG'
+import ImageSixtytwo from '../images/hue/hue10.JPG'
+
+import ImageSixtythree from '../images/hoian/hoian.JPG'
+import ImageSixtyfour from '../images/hoian/hoian2.JPG'
+import ImageSixtyfive from '../images/hoian/hoian3.JPG'
+import ImageSixtysix from '../images/hoian/hoian4.JPG'
+import ImageSixtyseven from '../images/hoian/hoian5.JPG'
+import ImageSixtyeight from '../images/hoian/hoian6.JPG'
+import ImageSixtynine from '../images/hoian/hoian7.JPG'
+import ImageSeventy from '../images/hoian/hoian8.JPG'
+import ImageSeventyone from '../images/hoian/hoian9.JPG'
+import ImageSeventytwo from '../images/hoian/hoian10.JPG'
+
 export const SliderData = [
     { 
         title: 'Hanoi', 
@@ -321,6 +343,92 @@ export const SliderDataMaichau = [
     },
     { 
         image: ImageFiftytwo, 
+        alt: 'House', 
+    }
+];
+
+export const SliderDataHue = [
+    { 
+        image: ImageFiftythree, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFiftyfour, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFiftyfive, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFiftysix, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFiftyseven, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFiftyeight, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageFiftynine, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSixty, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSixtyone, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSixtytwo, 
+        alt: 'House', 
+    }
+];
+
+export const SliderDataHoian = [
+    { 
+        image: ImageSixtythree, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSixtyfour, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSixtyfive, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSixtysix, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSixtyseven, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSixtyeight, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSixtynine, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSeventy, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSeventyone, 
+        alt: 'House', 
+    },
+    { 
+        image: ImageSeventytwo, 
         alt: 'House', 
     }
 ];

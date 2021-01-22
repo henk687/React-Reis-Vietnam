@@ -1,7 +1,7 @@
 import React from 'react'
 import Features from '../components/Features'
 import Hero from '../components/Hero'
-import { FeaturesDataFive, FeaturesDataFour, FeaturesDataSix, FeaturesDataThree, FeaturesDataTwo } from '../data/FeaturesData'
+import { FeaturesDataFive, FeaturesDataFour, FeaturesDataSeven, FeaturesDataSix, FeaturesDataThree, FeaturesDataTwo } from '../data/FeaturesData'
 import { SliderDataSapa, SliderDataHanoi, SliderDataHalongbay, SliderDataNinhbinh, SliderDataMaichau } from '../data/SliderData'
 
 
