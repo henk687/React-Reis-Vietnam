@@ -1,5 +1,12 @@
 import ImageOne from '../images/vietnammap.png'
-import ImageTwo from '../images/vietnammap.png'
+import ImageTwo from '../images/rondreismap.png'
+import ImageThree from '../images/hanoimap.png'
+import ImageFour from '../images/sapamap.png'
+import ImageFive from '../images/halongbaymap.png'
+import ImageSix from '../images/ninhbinhmap.png'
+import ImageSeven from '../images/maichaumap.png'
+import ImageEight from '../images/huemap.png'
+import ImageNine from '../images/hoianmap.png'
 
 export const InfoData = { 
         heading: 'Vietnam', 
@@ -33,7 +40,7 @@ export const InfoData = {
         paragraphTwo: 'Hanoi is de hoofdstad van Vietnam, maar staat ook bekend om haar dorpse karakter. In het knusse oude centrum kun je heerlijk slenteren, shoppen en eten, en ook in de rest van deze aangename stad valt een hoop te zien en te doen. Neem bijvoorbeeld een duik in het luisterrijke verleden van Vietnam, bezoek een waterpoppenshow of ga een dagje de natuur in.',
         buttonLabel: 'Bekijk Afbeeldingen',
         buttonLink: '/afbeeldingen',
-        image: ImageTwo, 
+        image: ImageThree, 
         reverse: true,
         bgcolor: false,
         h1color: false,
@@ -48,7 +55,7 @@ export const InfoData = {
         paragraphTwo: 'In het noordwesten van Vietnam, tegen de grens van China, vind je het stadje Sapa. Omgeven door de Hoang Lien bergen en gelegen in een vallei, draait alles hier om de prachtige omgeving. Een trekking door het gebied zorgt voor een schitterend uitzicht op het dal en de Fansipan; de hoogste berg van Vietnam. Je vindt er terrasvormige rijstvelden die tegen bergen aan liggen, leuke dorpjes en heel veel groen. Sapa is de ideale uitvalsbasis om deze regio te verkennen. Je kunt vanuit hier een trekking maken door de verschillende dorpen en langs de bijzondere rijstterrassen.',
         buttonLabel: 'Bekijk Afbeeldingen',
         buttonLink: '/afbeeldingen',
-        image: ImageTwo, 
+        image: ImageFour, 
         reverse: false,
         bgcolor: true,
         h1color: true,
@@ -63,7 +70,7 @@ export const InfoData = {
         paragraphTwo: 'In de Golf van Tonkin ligt een absoluut wereldwonder. Meer dan 1600 kalkstenen eilandjes rijzen uit de zee en vormen zo de machtige Halong Bay. Het landschap is een mysterieus en adembenemend schouwspel en staat dus niet voor niets op de UNESCO werelderfgoedlijst.',
         buttonLabel: 'Bekijk Afbeeldingen',
         buttonLink: '/afbeeldingen',
-        image: ImageTwo, 
+        image: ImageFive, 
         reverse: true,
         bgcolor: false,
         h1color: false,
@@ -78,7 +85,7 @@ export const InfoData = {
         paragraphTwo: 'Ninh Binh wordt ook wel het ‘Halong Bay van het vaste land’ genoemd. Het staat bekend om de kalksteen rotsen, de felgroene rijstvelden, rivieren, prachtige uitzichten en verschillende oude tempels.',
         buttonLabel: 'Bekijk Afbeeldingen',
         buttonLink: '/afbeeldingen',
-        image: ImageTwo, 
+        image: ImageSix, 
         reverse: false,
         bgcolor: true,
         h1color: true,
@@ -93,7 +100,7 @@ export const InfoData = {
         paragraphTwo: 'Mai Chau is gelegen in een rustige, groene vallei vol met rijstvelden en boerderijen met een eigen traditionele bouwstijl. In de lente is de vallei prachtig gekleurd door de vele verschillende bloemensoorten die in bloei staan, zoals de perzikbloesem. In Mai Chau vindt u meerdere etnische volkeren zoals de Witte Thai en de H’mong. Van het gebied rond Mai Chau wordt wel gezegd dat het de geboorteplaats is van de echte Vietnamees en het is werkelijk prachtig.',
         buttonLabel: 'Bekijk Afbeeldingen',
         buttonLink: '/afbeeldingen',
-        image: ImageTwo, 
+        image: ImageSeven, 
         reverse: true,
         bgcolor: false,
         h1color: false,
@@ -108,7 +115,7 @@ export const InfoData = {
         paragraphTwo: 'Hué is de stad waar de Vietnamese cultuur zijn oorsprong kent en waar deze het best bewaard is gebleven. Het was de keizerlijke hoofdstad in de Nguyen dynastie van 1802 tot 1945. Hué is de stad van kunst, architectonische hoogstandjes en religie.',
         buttonLabel: 'Bekijk Afbeeldingen', 
         buttonLink: '/afbeeldingen',
-        image: ImageTwo, 
+        image: ImageEight, 
         reverse: false,
         bgcolor: true,
         h1color: true,
@@ -123,7 +130,7 @@ export const InfoData = {
         paragraphTwo: 'Het leukste aan Hoi An is de gezellige sfeer die in de stad heerst. De stad was vroeger een belangrijke havenstad in Vietnam, maar tegenwoordig heeft het geen haven meer. Toch zijn de invloeden nog te zien. Zo zie je nog verschillende koopmanshuizen die vroeger voor de handel gebruikt werden. Ze zijn nog steeds in goede staat. Het centrum van de stad autovrij, wat de sfeer ook ten goede komt. Na zonsondergang gaan de lampen aan en verfraaien de kleurrijke lampionnen de straten. Het is dan ook leuk om ‘s avonds de Night Market te bezoeken. Verder zijn er een aantal leuke bars en restaurants te vinden in Hoi An. De goede sfeer en de leuke bars maken het een leuke stad om uit te gaan.',
         buttonLabel: 'Bekijk Afbeeldingen', 
         buttonLink: '/afbeeldingen',
-        image: ImageTwo, 
+        image: ImageNine, 
         reverse: true,
         bgcolor: false,
         h1color: false,
