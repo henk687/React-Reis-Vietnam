@@ -32,7 +32,7 @@ export const FeaturesData = {
     export const FeaturesDataThree = { 
         heading: 'Sapa', 
         paragraphOne: 'In Sapa kun je prachtige panorama´s maken van het landschap met de rijstvelden.', 
-        paragraphTwo: 'Ook van de bevolking met hun traditionele klederdracht kun je leuke fotos maken',
+        paragraphTwo: 'Ook van de bevolking met hun traditionele klederdracht kun je leuke foto´s maken',
         buttonLabel: 'Bekijk Afbeeldingen',
         buttonLink: '/afbeeldingen',
         image: ImageThree, 
@@ -53,8 +53,8 @@ export const FeaturesData = {
 
     export const FeaturesDataFive = { 
         heading: 'Ninh Binh', 
-        paragraphOne: 'In de omgeving van Ninh Binh kun je mooie fotos maken tijdens een vaartocht over de rivieren.', 
-        paragraphTwo: 'Ook de oude hoofdstad Hoa Lu is zeker geschikt voor mooie fotos',
+        paragraphOne: 'In de omgeving van Ninh Binh kun je mooie foto´s maken tijdens een vaartocht over de rivieren.', 
+        paragraphTwo: 'Ook de oude hoofdstad Hoa Lu is zeker geschikt voor mooie foto´s',
         buttonLabel: 'Bekijk Afbeeldingen',
         buttonLink: '/afbeeldingen',
         image: ImageFive, 
@@ -64,7 +64,7 @@ export const FeaturesData = {
 
     export const FeaturesDataSix = { 
         heading: 'Mai Chau', 
-        paragraphOne: 'In Mai Chau kun je veel fotos van de omgeving maken.', 
+        paragraphOne: 'In Mai Chau kun je veel foto´s van de omgeving maken.', 
         paragraphTwo: 'Het dorp met de paalwoningen is ook zeer geschikt voor fotografie.',
         buttonLabel: 'Bekijk Afbeeldingen',
         buttonLink: '/afbeeldingen',
@@ -75,8 +75,8 @@ export const FeaturesData = {
 
     export const FeaturesDataSeven = { 
         heading: 'Hué',
-        paragraphOne: 'In Hué kun je vanaf een boot op de parfumrivier fotos maken.',
-        paragraphTwo: 'Ook van de Citadel en de Hai van Pass kun je mooie fotos maken',
+        paragraphOne: 'In Hué kun je vanaf een boot op de parfumrivier foto´s maken.',
+        paragraphTwo: 'Ook van de Citadel en de Hai van Pass kun je mooie foto´s maken',
         buttonLabel: 'Bekijk Afbeeldingen',
         buttonLink: '/afbeeldingen',
         image: ImageSeven, 
@@ -86,7 +86,7 @@ export const FeaturesData = {
 
     export const FeaturesDataEight = { 
         heading: 'Hoi An', 
-        paragraphOne: 'In Hoi An kun je alleen al van de straten met de lampionnen leuke fotos maken.', 
+        paragraphOne: 'In Hoi An kun je alleen al van de straten met de lampionnen leuke foto´s maken.', 
         paragraphTwo: 'De japanse brug het strand en de tempels van My Son zijn ook aanraders',
         buttonLabel: 'Bekijk Afbeeldingen',
         buttonLink: '/afbeeldingen',
