@@ -125,7 +125,7 @@ const Footer = () => {
                         <a href="https://www.instagram.com/awesomevietnamtravel/?hl=nl" rel="noopener noreferrer" target="_blank"><Instagram /></a>
                     </SocialIcons>
                     <Contact>
-                        <Button to="/contact">Deel Ervaringen <IoMdArrowRoundForward /></Button>
+                        <Button to="/afbeeldingen">Onze Foto's <IoMdArrowRoundForward /></Button>
                     </Contact>
                 </FooterBottom>
             </Container>
