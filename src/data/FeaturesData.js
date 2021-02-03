@@ -8,11 +8,11 @@ import ImageSeven from '../images/maichau/maichau.JPG'
 import ImageEight from '../images/maichau/maichau.JPG'
 
 export const FeaturesData = { 
-        heading: 'Reismoment', 
-        paragraphOne: 'Deel met ons je mooiste reis of je favoriete vakantie moment.', 
-        paragraphTwo: 'Vul het formulier in en deel met ons de mooiste en leukste reizen die je gemaakt hebt',
-        buttonLabel: 'Deel Ervaringen',
-        buttonLink: '/contact',
+        heading: 'Fotografie', 
+        paragraphOne: 'Rondreizen door Vietnam is een avontuur voor alle zintuigen en dat maakt Vietnam en haar inwoners fotogeniek.', 
+        paragraphTwo: 'Zowel van de natuur als cultuur zijn veel mooi foto´s te maken',
+        buttonLabel: 'Onze foto´s',
+        buttonLink: '/afbeeldingen',
         image: ImageOne, 
         reverse: false,
         delay: 100
